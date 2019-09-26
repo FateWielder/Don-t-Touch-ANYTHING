@@ -58,7 +58,7 @@
             "Key": "344f9d8a-f967-4813-98cf-fe6edf443c0a",
             "Value": {
                 "id": "19e455e3-62ec-4f6d-8eee-701e331a2205",
-                "resourcePath": "sprites\/sprite2\/sprite2.yy",
+                "resourcePath": "sprites\/spr_Flag\/spr_Flag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -132,6 +132,14 @@
                 "id": "762f0177-6878-4b13-9f34-ba03883431e2",
                 "resourcePath": "views\/84cfbab1-0334-46ac-adef-c459e3e63c53.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ba66e65-11fc-4f2c-846d-f22f35f24ed8",
+            "Value": {
+                "id": "a8acc7c0-93f0-457c-a0df-57e3d2612b0a",
+                "resourcePath": "objects\/obf_Flag\/obf_Flag.yy",
+                "resourceType": "GMObject"
             }
         },
         {
