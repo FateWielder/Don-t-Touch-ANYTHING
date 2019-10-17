@@ -8,6 +8,6 @@ if (keyboard_check(vk_shift) = true) {
 	current_speed = slow_speed
 }
 
-if (!keyboard_check(vk_shift) && !keyboard_check(vk_space)) {
+if (!keyboard_check(vk_shift) & !keyboard_check(vk_space)) {
 	current_speed = move_speed
 }
