@@ -119,11 +119,35 @@
             }
         },
         {
+            "Key": "4a62b858-9c19-4974-9e9c-239d54231be8",
+            "Value": {
+                "id": "7b045b55-ec1e-4005-86a5-5b835e114c52",
+                "resourcePath": "sprites\/spr_button\/spr_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4bc1e3ab-2d7c-4fb9-b9b9-61bc34929171",
+            "Value": {
+                "id": "40dc3de3-4e6f-491b-b77f-cca3a499d891",
+                "resourcePath": "rooms\/Title\/Title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "577c24d3-2e4c-4034-8006-9a2077d965f5",
             "Value": {
                 "id": "5b5d84fa-e843-445f-9dc0-fd179722680d",
                 "resourcePath": "views\/577c24d3-2e4c-4034-8006-9a2077d965f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5c4748dd-6e5a-42a6-b6a0-c339bcfeeb02",
+            "Value": {
+                "id": "7ba0839b-34f7-493e-9309-28605426efd3",
+                "resourcePath": "scripts\/sc_onDeath\/sc_onDeath.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -143,6 +167,14 @@
             }
         },
         {
+            "Key": "61072712-3a50-45be-a065-c38cbce33ecf",
+            "Value": {
+                "id": "0f9ce009-79af-4f61-8d13-79faf3fda127",
+                "resourcePath": "fonts\/ft_titleTop\/ft_titleTop.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "67d49599-20e2-4b79-90c5-e7eab94100cd",
             "Value": {
                 "id": "cedf79d9-cf4b-4414-92d8-f0b8ca237d82",
@@ -159,6 +191,14 @@
             }
         },
         {
+            "Key": "72d12073-fb18-466b-a246-d3899504c379",
+            "Value": {
+                "id": "fca9c2b7-c524-4a03-86cf-838fe41473f1",
+                "resourcePath": "fonts\/ft_titleBottom\/ft_titleBottom.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "a5ce791d-0131-4e1c-80ac-f560941de89f",
@@ -172,6 +212,14 @@
                 "id": "677c88aa-1488-4ffa-a582-b5949b3e40d4",
                 "resourcePath": "rooms\/Level_3\/Level_3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7e918fab-34e4-49db-8b6f-de717bf4fe0b",
+            "Value": {
+                "id": "5c6378ea-15e7-4f13-92fc-daa109959184",
+                "resourcePath": "fonts\/ft_buttonText\/ft_buttonText.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -207,6 +255,14 @@
             }
         },
         {
+            "Key": "9a67858a-2a7b-4911-ad0a-8e88e500eb6a",
+            "Value": {
+                "id": "ab542123-734a-4a48-93df-d6cfa452a1ce",
+                "resourcePath": "objects\/obj_title\/obj_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b839356-5acc-4f87-a7c0-4d8cd8c36e82",
             "Value": {
                 "id": "a2e6f346-b4e7-47d1-9541-11070e3d7240",
@@ -239,6 +295,14 @@
             }
         },
         {
+            "Key": "afa1681a-ca76-44f8-8a1b-dfaafc6fab3a",
+            "Value": {
+                "id": "36f9329f-0507-492a-a17d-888840c06d93",
+                "resourcePath": "fonts\/ft_intructionText\/ft_intructionText.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "bf81cccc-ca47-40d5-9263-38bb1a673d25",
             "Value": {
                 "id": "5f70d190-4e6c-48b2-b1eb-c665574e1b4a",
@@ -252,6 +316,14 @@
                 "id": "58aa62a0-27fd-49d3-96da-3e2324f93db4",
                 "resourcePath": "views\/c2cdf210-4ad5-4619-8fad-d36b65f8f596.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c63873d8-80ba-4b8f-ae20-e6dd56776899",
+            "Value": {
+                "id": "2d8e02ca-d047-4ca3-a248-9674bfeba54b",
+                "resourcePath": "objects\/obj_button\/obj_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -320,7 +392,7 @@
         }
     ],
     "script_order": [
-        
+        "5c4748dd-6e5a-42a6-b6a0-c339bcfeeb02"
     ],
     "tutorial": ""
 }
